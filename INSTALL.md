@@ -1,17 +1,12 @@
-### [Foobar](https://foobar.com)
+### [ForkLift](https://binarynights.com)
 
-#### Install using Git
+#### Requirements
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+The theme is bundled with **Forklift 4 Beta 2** and subsequent releases.
+It is not available for **ForkLift 3**.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Go to `Settings → Appearance`
+2. Select **Dracula** from the `Theme` list
+3. Enjoy!

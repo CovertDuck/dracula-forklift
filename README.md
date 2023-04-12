@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [ForkLift](https://binarynights.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [ForkLift](https://binarynights.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/forklift](https://draculatheme.com/forklift).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/forklift/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![CovertDuck](https://github.com/CovertDuck.png?size=100)](https://github.com/CovertDuck) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [CovertDuck](https://github.com/CovertDuck)                                               |
 
 ## Community
 
