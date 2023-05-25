@@ -1,3 +1,8 @@
+>**THE PROJECT HAS BEEN MOVED OVER TO: https://github.com/dracula/forklift**  
+>*This repository is kept online for archival purposes.*
+
+---
+
 # Dracula for [ForkLift](https://binarynights.com)
 
 > A dark theme for [ForkLift](https://binarynights.com).
